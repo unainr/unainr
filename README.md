@@ -38,5 +38,6 @@ I build modern, scalable web applications with a focus on **SaaS platforms, dash
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+<img src="https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=github_dark&hide_border=true" />
+
 
