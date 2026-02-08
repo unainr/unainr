@@ -27,7 +27,7 @@ I build modern, scalable web applications with a focus on **SaaS platforms, dash
 ### 🚀 Projects  
 
 - **NeuroX** – Create powerful AI-driven workflows with intuitive drag-and-drop nodes  
-  [https://revalio.hellorovamo.com](https://neuroxu.vercel.app/)  
+  [(https://neuroxu.vercel.app/) ](https://neuroxu.vercel.app/) 
 - **Portfolio** – https://unainr.vercel.app  
 
 ---
@@ -38,4 +38,5 @@ I build modern, scalable web applications with a focus on **SaaS platforms, dash
 
 ---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400)
+
