@@ -1,89 +1,41 @@
-## Hi there, I'm Unainr 👋  
+## Hi, I'm Unainr 👋  
 
-🚀 Full-Stack Developer | SaaS Builder | AI Integration Specialist  
+🚀 Full-Stack Developer | SaaS & AI Apps Builder  
 
-I build modern, scalable, and user-focused web applications using the latest technologies.  
-My main focus is creating **real-world products**, dashboards, and platforms that solve problems and look great doing it.
-
----
-
-### 🧠 About Me  
-
-- 🔭 Currently working on **SaaS platforms, dashboards, and AI-powered apps**  
-- 🌱 Improving skills in **Next.js App Router, Server Actions, and AI SDKs**  
-- 👯 Open to collaborate on **Startups, SaaS, and Open-Source projects**  
-- 💬 Ask me about **Next.js, TypeScript, Drizzle ORM, Neon, Gemini AI, Upload systems**  
-- ⚡ Fun fact: I love turning complex ideas into simple, usable products  
+I build modern, scalable web applications with a focus on **SaaS platforms, dashboards, and AI integrations** using the latest technologies.
 
 ---
 
-### 🛠 Tech Stack  
+### 🧠 About  
 
-**Frontend**  
-- Next.js (App Router)  
-- React  
-- TypeScript  
-- Tailwind CSS  
-- shadcn/ui  
-
-**Backend**  
-- Server Actions  
-- Drizzle ORM  
-- Neon Database  
-- Appwrite  
-- Authentication (Clerk)  
-
-**AI & Tools**  
-- Vercel AI SDK  
-- Google Gemini  
-- UploadThing  
-- REST APIs  
-
-**Other**  
-- WordPress  
-- Shopify  
-- Git & GitHub  
+- 🔭 Building **real-world SaaS and dashboard products**  
+- 🌱 Learning advanced **Next.js App Router & Server Actions**  
+- 💬 Ask me about **Next.js, TypeScript, Drizzle, Neon, Gemini AI**  
+- 👯 Open to collaborations and startups  
 
 ---
 
-### 🚀 What I Build  
+### 🛠 Stack  
 
-- ✅ SaaS Dashboards  
-- ✅ Property Management Systems  
-- ✅ AI-Powered Apps  
-- ✅ File Upload Systems  
-- ✅ Authentication Platforms  
-- ✅ Blogs & CMS  
-- ✅ Business Websites  
+**Frontend:** Next.js, React, TypeScript, Tailwind, shadcn  
+**Backend:** Server Actions, Drizzle ORM, Neon, Appwrite  
+**AI & Tools:** Vercel AI SDK, Gemini, UploadThing  
+**Other:** WordPress, Shopify, Git  
 
 ---
 
-### 📌 Featured Projects  
+### 🚀 Projects  
 
-🌐 **Revalio** – Property & Payment Dashboard  
-👉 https://revalio.hellorovamo.com  
-
-🌐 **Unainr Portfolio**  
-👉 https://unainr.vercel.app  
-
-*(More projects coming soon…)*  
+- **NeuroX** – Create powerful AI-driven workflows with intuitive drag-and-drop nodes  
+  [https://revalio.hellorovamo.com](https://neuroxu.vercel.app/)  
+- **Portfolio** – https://unainr.vercel.app  
 
 ---
 
-### 📫 Connect With Me  
+### 📫 Contact  
 
-- 💼 LinkedIn: *(add your link)*  
-- 🌐 Portfolio: https://unainr.vercel.app  
-- 📧 Email: *(add your email)*  
+📧 unain.dev@outlook.com  
 
 ---
 
-### ⭐ GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=unainr&layout=compact&theme=tokyonight)  
-
----
-
-✨ _Building ideas into real products._  
+![Stats](https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=tokyonight&hide_border=true)
