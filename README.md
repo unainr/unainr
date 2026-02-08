@@ -1,17 +1,17 @@
-## Hi, I'm Unainr 👋  
+## Hi, I'm Unain 👋  
 
-🚀 Full-Stack Developer | SaaS & AI Apps Builder  
+🚀 Full-Stack Developer | SaaS & AI App Builder  
 
-I build modern, scalable web applications with a focus on **SaaS platforms, dashboards, and AI integrations** using the latest technologies.
+I build modern, scalable web applications with a focus on **SaaS platforms, dashboards, and AI integrations** using cutting-edge technologies.
 
 ---
 
 ### 🧠 About  
 
 - 🔭 Building **real-world SaaS and dashboard products**  
-- 🌱 Learning advanced **Next.js App Router & Server Actions**  
+- 🌱 Deepening skills in **Next.js App Router & Server Actions**  
 - 💬 Ask me about **Next.js, TypeScript, Drizzle, Neon, Gemini AI**  
-- 👯 Open to collaborations and startups  
+- 👯 Open to collaborations, startups, and open-source  
 
 ---
 
@@ -26,8 +26,8 @@ I build modern, scalable web applications with a focus on **SaaS platforms, dash
 
 ### 🚀 Projects  
 
-- **NeuroX** – Create powerful AI-driven workflows with intuitive drag-and-drop nodes  
-  [(https://neuroxu.vercel.app/) ](https://neuroxu.vercel.app/) 
+- **NeuroX** – AI-powered workflows with intuitive drag-and-drop nodes  
+  👉 https://neuroxu.vercel.app  
 - **Portfolio** – https://unainr.vercel.app  
 
 ---
@@ -35,9 +35,3 @@ I build modern, scalable web applications with a focus on **SaaS platforms, dash
 ### 📫 Contact  
 
 📧 unain.dev@outlook.com  
-
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=unainr&show_icons=true&theme=github_dark&hide_border=true" />
-
-
