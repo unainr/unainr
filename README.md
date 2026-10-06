@@ -10,7 +10,7 @@
   <a href="https://unainr.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-6D4AFF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://contra.com/unain_raza_luijrkfi">
+  <a href="https://contra.com/muhammadunain">
     <img src="https://img.shields.io/badge/Hire_me_on_Contra-FF5A1F?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
   </a>
   <a href="mailto:unainworks@protonmail.com">
@@ -86,7 +86,7 @@ Have an idea worth building?
   <a href="mailto:unainworks@protonmail.com">
     <img src="https://img.shields.io/badge/Let's_build_something-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://contra.com/unain_raza_luijrkfi">
+  <a href="https://contra.com/muhammadunain">
     <img src="https://img.shields.io/badge/Hire_me_on_Contra-FF5A1F?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
   </a>
 </p>
