@@ -2,11 +2,11 @@
 
 ### Full-Stack Developer · AI Developer · SaaS Builder
 
-I build **full-stack web applications, SaaS products, and AI-powered applications** from the ground up.
+I’m a **Full-Stack Developer focused on building modern web applications, SaaS products, and AI-powered apps**.
 
-My main stack is **Next.js + TypeScript**, with Hono for backend services and RPC, PostgreSQL-based databases, and modern tools for authentication, data fetching, storage, monitoring, and AI integrations.
+Most of my work revolves around **Next.js and TypeScript**, but I also build backend services with Hono, work with PostgreSQL databases, and use modern tools for authentication, caching, storage, real-time features, and AI integrations.
 
-I enjoy taking an idea from **architecture → development → deployment** and turning it into something people can actually use.
+I enjoy working across the whole stack — from designing the UI and building APIs to working with databases, authentication, AI features, and getting the final product into production.
 
 <p align="left">
   <a href="https://unainr.vercel.app">
@@ -19,18 +19,20 @@ I enjoy taking an idea from **architecture → development → deployment** and 
 
 ---
 
-## 🚀 What I Build
+## 🧠 About Me
 
-* **SaaS platforms** with authentication, dashboards, subscriptions, and multi-tenant architecture
-* **AI-powered applications** with LLMs, chat, agents, workflows, and intelligent features
-* **Full-stack web applications** with modern frontend and backend architecture
-* **Admin dashboards** and internal tools
-* **Real-time applications** and collaborative experiences
-* **API-driven applications** with type-safe communication between frontend and backend
+* 🔭 Currently building **SaaS and AI-powered web applications**
+* ⚡ My main stack is **Next.js + TypeScript**
+* 🔧 I use **Hono & Hono RPC** for backend APIs and type-safe communication
+* 🗄️ Currently working mostly with **PostgreSQL, Neon & Drizzle**
+* 🔐 Experienced with **Clerk and Better Auth**
+* 🤖 Build AI features and applications using **LLMs and AI SDKs**
+* 📦 Comfortable working with **Turborepo and full-stack monorepos**
+* 🚀 Interested in building products from **idea → architecture → production**
 
 ---
 
-## 🧰 My Current Stack
+## 🛠️ Tech Stack
 
 ### Frontend
 
@@ -40,19 +42,18 @@ I enjoy taking an idea from **architecture → development → deployment** and 
 
 **Next.js · React · TypeScript · Tailwind CSS · shadcn/ui**
 
-I primarily work with the **Next.js App Router**, Server Components, Server Actions, and modern React patterns.
+I mainly work with the **Next.js App Router**, building modern interfaces and full-stack applications with React Server Components, Server Actions, and TypeScript.
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,hono" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/hono/default.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 **Hono · Hono RPC · Node.js · Next.js**
 
-I use **Hono** for backend services and APIs, including type-safe communication with the frontend through **Hono RPC**.
-
-For larger projects, I've also worked with **Turborepo** to manage web and server applications inside a monorepo.
+I use **Hono** to build backend services and APIs, with **Hono RPC** when I need type-safe communication between the frontend and backend.
 
 ### Database & ORM
 
@@ -62,143 +63,108 @@ For larger projects, I've also worked with **Turborepo** to manage web and serve
 
 **PostgreSQL · Neon · Drizzle ORM · Prisma**
 
-My current go-to setup is **Neon + PostgreSQL + Drizzle**, while I've also worked with Prisma across different projects.
+My current database setup is mostly **Neon + PostgreSQL + Drizzle**, while I've also worked with Prisma in different projects.
 
 ### Authentication
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/clerk/default.svg" width="48" height="48" />
+</p>
+
 **Clerk · Better Auth**
 
-I've worked with both Clerk and Better Auth depending on the application's requirements.
+I use authentication solutions based on the needs of the application, with Clerk and Better Auth being the ones I work with most.
 
-### Data Fetching & State
+### Data Fetching & Caching
+
+<p>
+  <img src="https://thesvg.org/icons/tanstack/default.svg" width="48" height="48" />
+</p>
 
 **TanStack Query**
 
-Used for server-state management, data fetching, caching, synchronization, and keeping client-side data predictable.
+Used for data fetching, caching, synchronization, mutations, and managing server state across applications.
 
-### AI Development
+### AI
 
-**Vercel AI SDK · Gemini · OpenAI · AI APIs & LLM integrations**
+<p>
+  <img src="https://skillicons.dev/icons?i=openai,gemini" />
+</p>
 
-I build AI features into actual applications — from chat interfaces and assistants to **AI workflows, agents, RAG-style retrieval, and automation**.
+**Vercel AI SDK · OpenAI · Gemini · LLM APIs**
+
+I build AI-powered features into real applications — including AI assistants, chat interfaces, workflow automation, retrieval-based features, and other LLM-powered experiences.
 
 ### Storage & Media
 
 **ImageKit · Cloudinary · UploadThing**
 
-Used for image uploads, file storage, optimization, and media handling.
+Used for image uploads, file storage, optimization, and handling application media.
 
-### Backend-as-a-Service
+### Other Tools
 
-**Supabase · Appwrite**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma" />
+</p>
 
-I've used both for authentication, databases, storage, and other backend services depending on the project.
-
-### Real-Time & Collaboration
-
-**Liveblocks**
-
-Used for real-time collaboration, presence, cursors, and collaborative application experiences.
-
-### Monitoring & Infrastructure
-
-**Sentry · Vercel · Docker · Git · GitHub**
-
-I use tools like Sentry for monitoring and debugging production applications, alongside modern deployment and development workflows.
+**Turborepo · Sentry · Liveblocks · Supabase · Appwrite**
 
 ---
 
-## 🏗️ Architecture & Tools
+## 🚀 What I Like Building
 
-Some of the technologies and concepts I've worked with across different projects:
+I’m particularly interested in building products where there is a mix of **good UI, solid backend architecture, and useful AI features**.
 
-```text
-Next.js App Router
-React
-TypeScript
-Hono / Hono RPC
-Turborepo
-PostgreSQL
-Neon
-Drizzle ORM
-Prisma
-TanStack Query
-Clerk
-Better Auth
-Supabase
-Appwrite
-Vercel AI SDK
-OpenAI
-Gemini
-RAG / AI Retrieval
-Liveblocks
-Sentry
-ImageKit
-Cloudinary
-UploadThing
-Docker
-Vercel
-Git / GitHub
-```
+Some of the things I enjoy working on:
 
----
-
-## 🧠 What I'm Focused On
-
-Currently spending most of my time building with:
-
-**Next.js + TypeScript + Hono + PostgreSQL + Drizzle + TanStack Query**
-
-and exploring better ways to build:
-
-* AI-powered SaaS products
-* Agentic workflows
-* AI integrations
+* SaaS applications
+* AI-powered applications
+* Dashboards and internal tools
+* Workflow and automation platforms
 * Real-time applications
-* Scalable backend architectures
-* Monorepos with Turborepo
-* Better developer and user experiences
+* Developer tools
+* Full-stack products with complex backend logic
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🧠 NeuroX
 
 An AI-powered workflow platform built around a visual node-based interface.
 
-Users can create workflows, connect different nodes, and interact with AI-powered processes through an intuitive canvas.
+It combines workflow automation, AI agents, real-time collaboration, and a visual canvas into one application.
 
-**Built around:** AI workflows · visual nodes · real-time collaboration · modern full-stack architecture
+**Stack:** Next.js · TypeScript · Hono · AI · PostgreSQL · Drizzle · Liveblocks
 
-🔗 https://neuroxu.vercel.app
+👉 https://neuroxu.vercel.app
 
 ---
 
 ### 🌐 Portfolio
 
-My personal portfolio and a collection of the things I've been building.
+My personal portfolio where I showcase my work, projects, services, and the technologies I work with.
 
-🔗 https://unainr.vercel.app
+👉 https://unainr.vercel.app
 
 ---
 
 ## 🤝 Open To
 
-I'm interested in working on:
+I'm always interested in:
 
-* 🚀 SaaS products
-* 🤖 AI-powered applications
-* 💻 Full-stack web applications
-* 🧪 Interesting technical projects
-* 🤝 Collaborations
-* 🌱 Open-source projects
+* Interesting SaaS ideas
+* AI-powered products
+* Full-stack development
+* Startup projects
+* Open-source collaboration
+* Building something useful together
 
-If you have something interesting in mind, feel free to reach out.
+If you have an interesting idea or project, feel free to reach out.
 
 ---
 
-## 📫 Get In Touch
+## 📫 Contact
 
 📧 **[unainworks@protonmail.com](mailto:unainworks@protonmail.com)**
 
@@ -207,5 +173,5 @@ If you have something interesting in mind, feel free to reach out.
 ---
 
 <p align="center">
-  <i>Build it. Ship it. Make it useful.</i>
+  <i>Build useful things. Ship often.</i>
 </p>
