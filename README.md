@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm UNAIN 👋</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6d4aff&height=220&section=header&text=Hey%2C%20I'm%20UNAIN&fontSize=52&fontColor=ffffff&fontAlignY=42" alt="Hey, I'm UNAIN"/>
 
 <p align="center">
   <b>Full-Stack Developer · AI Developer · SaaS Builder</b>
@@ -14,73 +14,140 @@
     <img src="https://img.shields.io/badge/Hire_me_on_Contra-FF5A1F?style=for-the-badge&logo=contra&logoColor=white" alt="Contra"/>
   </a>
   <a href="mailto:unainworks@protonmail.com">
-    <img src="https://img.shields.io/badge/Email-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
----
+<br/>
 
-## 🧠 About Me
+<h2 align="center">🧠 About Me</h2>
 
-I'm a **Full-Stack Developer** focused on building SaaS products, AI-powered applications, and modern web experiences.
+<p align="start">
+  I'm a <b>Full-Stack Developer</b> focused on building SaaS products, AI-powered applications, and modern web experiences.
+</p>
 
-My main stack is **Next.js, TypeScript, and Hono**, with PostgreSQL, modern authentication, data-fetching tools, and AI SDKs. I enjoy working across the stack from designing interfaces and APIs to building the underlying architecture and shipping products to production.
+<p align="start">
+  My main stack is <b>Next.js, TypeScript, and Hono</b>, with PostgreSQL, modern authentication, data-fetching tools, and AI SDKs. I enjoy working across the stack from designing interfaces and APIs to building the underlying architecture and shipping products to production.
+</p>
 
-I'm particularly interested in **AI applications that solve real problems**, thoughtful product design, and building systems that are clean, scalable, and enjoyable to use.
+<p align="start">
+  I'm particularly interested in <b>AI applications that solve real problems</b>, thoughtful product design, and building systems that are clean, scalable, and enjoyable to use.
+</p>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
-|                            |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frontend**               | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=nextdotjs\&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square\&logo=typescript\&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square\&logo=tailwindcss\&logoColor=white) ![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square\&logo=shadcnui\&logoColor=white) |
-| **Backend**                | ![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square\&logo=hono\&logoColor=white) ![Hono RPC](https://img.shields.io/badge/Hono_RPC-E36002?style=flat-square\&logo=hono\&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square\&logo=express\&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=nodedotjs\&logoColor=white)                                                                                                                                             |
-| **Database & ORM**         | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white) ![Neon](https://img.shields.io/badge/Neon-00E599?style=flat-square\&logo=neon\&logoColor=black) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square\&logo=drizzle\&logoColor=black) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square\&logo=prisma\&logoColor=white)                                                                                                                                    |
-| **Auth & Data**            | ![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=flat-square\&logo=clerk\&logoColor=white) ![Better Auth](https://img.shields.io/badge/Better_Auth-000000?style=flat-square) ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square\&logo=reactquery\&logoColor=white)                                                                                                                                                                                                                                                          |
-| **AI**                     | ![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square\&logo=vercel\&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square\&logo=openai\&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square\&logo=googlegemini\&logoColor=white) ![OpenRouter](https://img.shields.io/badge/OpenRouter-6467F2?style=flat-square)                                                                                                                                                   |
-| **Storage & Media**        | ![ImageKit](https://img.shields.io/badge/ImageKit-111111?style=flat-square) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square\&logo=cloudinary\&logoColor=white) ![UploadThing](https://img.shields.io/badge/UploadThing-000000?style=flat-square)                                                                                                                                                                                                                                                                                         |
-| **Tools & Infrastructure** | ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square\&logo=turborepo\&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white) ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square\&logo=sentry\&logoColor=white) ![Liveblocks](https://img.shields.io/badge/Liveblocks-000000?style=flat-square) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)                                                                 |
+<table width="100%">
+  <tr>
+    <td width="22%"><b>Frontend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+      <img src="https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-111827?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS"/>
+      <img src="https://img.shields.io/badge/shadcn%2Fui-111827?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hono-111827?style=flat-square&logo=hono&logoColor=E36002" alt="Hono"/>
+      <img src="https://img.shields.io/badge/Hono_RPC-111827?style=flat-square&logo=hono&logoColor=E36002" alt="Hono RPC"/>
+      <img src="https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+      <img src="https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Database &amp; ORM</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/Neon-111827?style=flat-square&logo=neon&logoColor=00E599" alt="Neon"/>
+      <img src="https://img.shields.io/badge/Drizzle_ORM-111827?style=flat-square&logo=drizzle&logoColor=C5F74F" alt="Drizzle"/>
+      <img src="https://img.shields.io/badge/Prisma-111827?style=flat-square&logo=prisma&logoColor=white" alt="Prisma"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Auth &amp; Data</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Clerk-111827?style=flat-square&logo=clerk&logoColor=6C47FF" alt="Clerk"/>
+      <img src="https://img.shields.io/badge/Better_Auth-111827?style=flat-square" alt="Better Auth"/>
+      <img src="https://img.shields.io/badge/TanStack_Query-111827?style=flat-square&logo=reactquery&logoColor=FF4154" alt="TanStack Query"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Vercel_AI_SDK-111827?style=flat-square&logo=vercel&logoColor=white" alt="Vercel AI SDK"/>
+      <img src="https://img.shields.io/badge/OpenAI-111827?style=flat-square&logo=openai&logoColor=white" alt="OpenAI"/>
+      <img src="https://img.shields.io/badge/Gemini-111827?style=flat-square&logo=googlegemini&logoColor=8E75B2" alt="Gemini"/>
+      <img src="https://img.shields.io/badge/OpenRouter-111827?style=flat-square" alt="OpenRouter"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Storage &amp; Media</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/ImageKit-111827?style=flat-square" alt="ImageKit"/>
+      <img src="https://img.shields.io/badge/Cloudinary-111827?style=flat-square&logo=cloudinary&logoColor=3448C5" alt="Cloudinary"/>
+      <img src="https://img.shields.io/badge/UploadThing-111827?style=flat-square" alt="UploadThing"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Tools &amp; Infrastructure</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Turborepo-111827?style=flat-square&logo=turborepo&logoColor=EF4444" alt="Turborepo"/>
+      <img src="https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Sentry-111827?style=flat-square&logo=sentry&logoColor=white" alt="Sentry"/>
+      <img src="https://img.shields.io/badge/Liveblocks-111827?style=flat-square" alt="Liveblocks"/>
+      <img src="https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032" alt="Git"/>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## 🚀 Featured Projects
+<h2 align="center">🚀 Featured Projects</h2>
 
-### ⚡ [Seerforge](https://seerforge.vercel.app/)
-
-A **multi-tenant, real-time visual builder for AI agent workflows**. Design and test AI workflows through a node-based canvas with real-time collaboration.
-
-`Next.js` `TypeScript` `Hono` `Drizzle` `Liveblocks` `React Flow`
-
-### 🎙️ [Clario AI](https://clario-sh.vercel.app/)
-
-An **AI interview-prep platform** with voice-based mock interviews, credit-based usage, and subscription billing — built for realistic interview practice.
-
-`Next.js` `Clerk` `Vapi` `Drizzle` `Neon`
-
-### ✨ [Zyro](https://zyrosite.vercel.app/)
-
-An **AI wireframing and code-generation tool** that turns a simple prompt into a working interface.
-
-`Next.js` `TypeScript` `Vercel AI SDK`
-
-### 🧠 [NeuroX](https://neuroxu.vercel.app/)
-
-An AI-powered workflow platform built around a visual node-based interface for creating and connecting AI-powered workflows.
-
-`Next.js` `TypeScript` `AI` `Workflow Builder`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://seerforge.vercel.app/">Seerforge</a></h3>
+      <p>A <b>multi-tenant, real-time visual builder for AI agent workflows</b>. Design and test AI workflows through a node-based canvas with real-time collaboration.</p>
+      <sub><code>Next.js</code> · <code>TypeScript</code> · <code>Hono</code> · <code>Drizzle</code> · <code>Liveblocks</code> · <code>React Flow</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎙️ <a href="https://clario-sh.vercel.app/">Clario AI</a></h3>
+      <p>An <b>AI interview-prep platform</b> with voice-based mock interviews, credit-based usage, and subscription billing — built for realistic interview practice.</p>
+      <sub><code>Next.js</code> · <code>Clerk</code> · <code>Vapi</code> · <code>Drizzle</code> · <code>Neon</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✨ <a href="https://zyrosite.vercel.app/">Zyro</a></h3>
+      <p>An <b>AI wireframing and code-generation tool</b> that turns a simple prompt into a working interface.</p>
+      <sub><code>Next.js</code> · <code>TypeScript</code> · <code>Vercel AI SDK</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://neuroxu.vercel.app/">NeuroX</a></h3>
+      <p>An AI-powered workflow platform built around a visual node-based interface for creating and connecting AI-powered workflows.</p>
+      <sub><code>Next.js</code> · <code>TypeScript</code> · <code>AI</code> · <code>Workflow Builder</code></sub>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <a href="https://unainr.vercel.app"><b>→ View more projects on my portfolio</b></a>
 </p>
 
----
+<br/>
 
-## 🤝 Open To
+<h2 align="center">🤝 Open To</h2>
 
-**SaaS products · AI applications · Full-stack development · Freelance work · Startup collaborations**
+<p align="center">
+  <b>SaaS products · AI applications · Full-stack development · Freelance work · Startup collaborations</b>
+</p>
 
-Have an idea worth building?
+<p align="center">Have an idea worth building?</p>
 
 <p align="center">
   <a href="mailto:unainworks@protonmail.com">
@@ -94,3 +161,5 @@ Have an idea worth building?
 <p align="center">
   <i>Build useful things. Ship often.</i>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6d4aff,100:0f172a&height=100&section=footer" alt=""/>
